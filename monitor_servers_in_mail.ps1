@@ -3,7 +3,7 @@
 Set-ExecutionPolicy Bypass -Scope Process -Force
 
 # The servers to check for
-$serverNames = @("service1", "service2", "service3", "service4")
+$serverNames = @("server1", "server2", "server3", "server4")
 
 # Email settings
 $recipients = 'mail1@ofrecipient.com','mail2@ofrecipient.com','mail3@ofrecipient.com'  # Replace with the actual recipient email addresses
